@@ -27,7 +27,7 @@ figcaption {
    padding: 0px 0px 0px 0px;
    z-index: 3;
    color: red;
-    text-decoration: underline overline;
+    text-decoration: underline;
    font-weight: bold;
 }
 
